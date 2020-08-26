@@ -1,0 +1,6 @@
+{
+    "name": "kumar/gccomp2",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
